@@ -1,0 +1,35 @@
+~ Hey SME team ~
+~ I have listed down a few things down here ~
+~ You can add/ask questions her too ~
+
+1. I have listed down the common commands below. Just use it for future reference (Please do edit it if found new and better commands)
+
+        git fetch
+        git pull origin master/main
+        git branch
+
+        git checkout *existing branch from remote*
+        git checkout -b new_branch_locally
+
+        -- staging area --
+        git status
+        git add .  --> This will add ALL the files to be pushed
+        git commit -m "short description about the changes"
+        git push origin {worked branch name}
+
+
+        -- merging --
+        git checkout main
+        git merge {worked branch} -- remote repository
+        git push origin master 
+
+        -- 
+        git push -u origin feature
+
+2. Node_module will be in .gitignore (we don't want to bloat the GitHub with node_modules which are heavy as f***)
+
+3. I still don't understand why we need to create a PROJECT instead of normal REPOSITORY
+
+4. WE WILL BE CREATING PULL REQUEST TO 01_develop branch NOT main branch
+
+5. ~~~~~~
