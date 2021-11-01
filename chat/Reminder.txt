@@ -31,3 +31,5 @@
 3. I still don't understand why we need to create a PROJECT instead of normal REPOSITORY
 
 4. WE WILL BE CREATING PULL REQUEST TO 01_develop branch NOT main branch
+
+5. ~~~~~~
