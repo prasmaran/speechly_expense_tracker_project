@@ -29,3 +29,5 @@
 2. Node_module will be in .gitignore (we don't want to bloat the GitHub with node_modules which are heavy as f***)
 
 3. I still don't understand why we need to create a PROJECT instead of normal REPOSITORY
+
+4. WE WILL BE CREATING PULL REQUEST TO 01_develop branch NOT main branch
